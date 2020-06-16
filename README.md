@@ -1,2 +1,2 @@
 # vue-to-do
- to dolist with vue
+ to do list with vue
